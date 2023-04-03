@@ -1,5 +1,6 @@
 # Mentukan bagaimana cara menemukan hasil dari jadwal UTS menggunakan Python
 # Program ini untuk Jadwal UTS Semester 4
+
 # daftar jadwal UTS
 jadwal = {
     'Senin, 03 April 2023': ['Sistem Multimedia'],
